@@ -1,1 +1,1 @@
-# little lemon resturatn web app
+# little lemon restaurant web app
